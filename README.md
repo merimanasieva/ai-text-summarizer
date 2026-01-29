@@ -1,6 +1,3 @@
-# ai-text-summarizer
-Mini AI automation tool using OpenAI API for text summarization
-
 # AI Text Summarizer
 
 Mini AI-powered automation tool built with Python and OpenAI API.
